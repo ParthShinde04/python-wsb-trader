@@ -1,1 +1,1 @@
-# wsb-scrapper
+# python-wsb-trader
